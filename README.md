@@ -1,6 +1,6 @@
-# Hi 👋, I'm Aditya Dhotkar
+                                                                   # Hi 👋, I'm Aditya Dhotkar
 
-### QA engineer
+                                                                         ### QA engineer
 
 - 🔭 I'm currently working on ** Java, Selenium Automation, API Testing & Manual Testing Projects**
 
