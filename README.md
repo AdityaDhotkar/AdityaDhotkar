@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on ** Java, Selenium Automation, API Testing & Manual Testing Projects**
 
-- 🌱 I'm currently learning **Java, Selenium Automation, REST API Automation, Git & GitHub**
+- 🌱 I'm currently learning **Java, Selenium Automation, REST API Automation, 
 
 - 👯 I'm looking to collaborate on **QA projects, Test automation frameworks, and API automation testing**
 
